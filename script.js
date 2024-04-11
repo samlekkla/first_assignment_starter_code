@@ -24,7 +24,7 @@ function menu() {
         "By default the prompt() function takes all input as strings."
     )
   );
-  // add some more3 logic here
+  // add some more logic here
   // choose between if/else or switch
 }
 
